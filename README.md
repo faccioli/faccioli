@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Luiz Felipe Facioli</h1>
 <h3 align="center">Sou desenvolvedor fullstack na Alfasys</h3>
 <br />
-- 📫 Entre em contato comigo através do e-mail **faccioli1987@gmail.com**
+<p align="center">📫 Entre em contato comigo através do e-mail <strong>faccioli1987@gmail.com</strong></p>
 
 <br /><br />
 
