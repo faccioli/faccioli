@@ -2,9 +2,7 @@
 <h3 align="center">Sou desenvolvedor fullstack na Alfasys</h3>
 <br />
 <p align="center">📫 Entre em contato comigo através do e-mail <strong>faccioli1987@gmail.com</strong></p>
-
 <br />
-
 <h3 align="center">Conecte-se comigo nas redes:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/luiz-felipe-faccioli-54831527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz-felipe-faccioli-54831527" height="30" width="40" /></a>
